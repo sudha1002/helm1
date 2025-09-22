@@ -1,0 +1,5 @@
+appVersion: v2
+name: nginx
+version: 1.0.0 # chart version
+description: this nginx deployment
+appVersion: 1.2.0 # nginx app version
